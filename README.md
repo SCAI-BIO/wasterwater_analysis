@@ -7,7 +7,7 @@ It is structured as follows:
 
 -- data (needs to be added) 
 
-here the data for the analysis can be stored. Data can be accessed from https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG and https://github.com/robert-koch-institut/COVID-19-Hospitalisierungen_in_Deutschland
+here the data for the analysis can be stored. Data can be accessed from https://github.com/robert-koch-institut/Abwassersurveillance_AMELAG and https://github.com/robert-koch-institut/COVID-19-Hospitalisierungen_in_Deutschland. Since were are not the data holders, we did not upload it.
 
 -- notebooks 
   - correlation_analysis.ipynb (correlation analysis between wastewater viral load and hospitalization rates)
